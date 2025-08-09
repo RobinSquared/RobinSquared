@@ -1,6 +1,4 @@
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/LockyzDev)
-
-[![Lockyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lockyz&theme=midnight-purple)](https://github.com/lockyz)
+[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinSquared&theme=midnight-purple)](https://github.com/RobinSquared)
 
 ## What can I do?
 
@@ -14,10 +12,9 @@
 
 ## Hi there 👋
 - 📫 How to reach me:
-  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin.painter@lockyzmedia.com)
+  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lockyzmedia@gmail.com)
   - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NgpN3YYbMM)
-  - [Website](https://lockyzmedia.com)
-- 😄 Pronouns: any/all
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: I did gymnastics as a child.
 
 ## Projects
