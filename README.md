@@ -1,3 +1,5 @@
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RobinSquared&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=RobinSquared&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+
 ## What can I do?
 
 [![My Skills](https://skillicons.dev/icons?i=discordjs,nodejs,unreal,unity,vscode,java,js,html,css,docker)](https://lockyzmedia.com)
@@ -10,8 +12,8 @@
 
 ## Hi there 👋
 - 📫 How to reach me:
-  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lockyzmedia@gmail.com)
-  - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NgpN3YYbMM)
+  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin.painter@robinsquared.live)
+  - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/robinsquared)
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I did gymnastics as a child.
 
@@ -31,7 +33,7 @@ I intend to expand the bots plugin system as far as I can.
 #### Links
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lockyz-Media/bit)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lockyz-Media&repo=bit)](https://github.com/Lockyz-Media/bit)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=RobinSquared&repo=Lockyz-Media/bit&show_owner=true&theme=ambient_gradient)](https://github.com/Lockyz-Media/bit)
 
 ### Table Ball
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -60,7 +62,7 @@ It was originally created to give me access to information the available Pokemon
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/dismondb)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lockyz-Media/dismondb)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lockyz-Media&repo=dismondb)](https://github.com/Lockyz-Media/dismondb)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=RobinSquared&repo=Lockyz-Media/dismondb&show_owner=true&theme=ambient_gradient)](https://github.com/Lockyz-Media/dismondb)
 
 ### Monsty Corp
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
