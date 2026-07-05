@@ -1,5 +1,3 @@
-[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinSquared&theme=midnight-purple)](https://github.com/RobinSquared)
-
 ## What can I do?
 
 [![My Skills](https://skillicons.dev/icons?i=discordjs,nodejs,unreal,unity,vscode,java,js,html,css,docker)](https://lockyzmedia.com)
